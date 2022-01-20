@@ -1,0 +1,5 @@
+name: data-warehouse
+
+dependencies:
+  - python=3.9
+  - pymssql=2.2.3
